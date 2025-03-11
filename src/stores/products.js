@@ -7,9 +7,9 @@ const defaultProducts = [
     price: 29.99,
     rating: 4.5,
     images: [
-      '/src/assets/product-1-img1.jpg',
-      '/src/assets/product-1-img2.jpg',
-      '/src/assets/product-1-img3.jpg'
+      '../../public/assets/product-1-img1.jpg',
+      '../../public/assets/product-1-img2.jpg',
+      '../../public/assets/product-1-img3.jpg'
     ],
     category: 'LED Strips',
     description: 'RGB LED strip with smart home integration. Perfect for ambient lighting and entertainment setups.',
@@ -40,9 +40,9 @@ const defaultProducts = [
     price: 49.99,
     rating: 4.8,
     images: [
-      '/src/assets/product-2-img1.jpg',
-      '/src/assets/product-2-img2.jpg',
-      '/src/assets/product-2-img3.jpg'
+      '../../public/assets/product-2-img1.jpg',
+      '../../public/assets/product-2-img2.jpg',
+      '../../public/assets/product-2-img3.jpg'
     ],
     category: 'Panels',
     description: 'Ultra-thin LED panel for modern spaces. Perfect for office and commercial lighting.',
@@ -67,7 +67,7 @@ const defaultProducts = [
     price: 19.99,
     rating: 4.2,
     images: [
-      '/src/assets/product-3-img1.jpg',
+      '../../public/assets/product-3-img1.jpg',
     ],
     category: 'Spotlights',
     description: 'Adjustable LED spotlight for accent lighting. Great for highlighting artwork or architectural features.',
