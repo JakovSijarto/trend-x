@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smart LED Stripa",
+      "price": 42.55,
+      "rating": 4.5,
+      "images": [
+        "/src/assets/product-1-img1.jpg",
+        "/src/assets/product-1-img2.jpg",
+        "/src/assets/product-1-img3.jpg"
+      ],
+      "category": "LED Strips",
+      "description": "RGB LED strip with smart home integration. Perfect for ambient lighting and entertainment setups.",
+      "specs": {
+        "wattage": "24W",
+        "lumens": "2000lm",
+        "lifespan": "50000h",
+        "color": "RGB + White"
+      },
+      "comments": [
+        {
+          "user": "John D.",
+          "rating": 5,
+          "text": "Amazing colors and easy to install!",
+          "date": "2024-03-15"
+        },
+        {
+          "user": "Sarah M.",
+          "rating": 4,
+          "text": "Great product, app could be better",
+          "date": "2024-03-10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "LED Panel Light",
+      "price": 49.99,
+      "rating": 4.8,
+      "images": [
+        "https://placehold.co/600x400",
+        "https://placehold.co/600x400",
+        "https://placehold.co/600x400"
+      ],
+      "category": "Panels",
+      "description": "Ultra-thin LED panel for modern spaces. Perfect for office and commercial lighting.",
+      "specs": {
+        "wattage": "36W",
+        "lumens": "3600lm",
+        "lifespan": "70000h",
+        "color": "4000K"
+      },
+      "comments": [
+        {
+          "user": "Mike R.",
+          "rating": 5,
+          "text": "Perfect replacement for old fluorescent lights",
+          "date": "2024-03-12"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "LED Spotlight",
+      "price": 19.99,
+      "rating": 4.2,
+      "images": [
+        "https://placehold.co/600x400",
+        "https://placehold.co/600x400",
+        "https://placehold.co/600x400"
+      ],
+      "category": "Spotlights",
+      "description": "Adjustable LED spotlight for accent lighting. Great for highlighting artwork or architectural features.",
+      "specs": {
+        "wattage": "12W",
+        "lumens": "1000lm",
+        "lifespan": "45000h",
+        "color": "3000K"
+      },
+      "comments": [
+        {
+          "user": "Lisa K.",
+          "rating": 4,
+          "text": "Great focused light, perfect for my artwork",
+          "date": "2024-03-08"
+        }
+      ]
+    }
+  ]
+}
