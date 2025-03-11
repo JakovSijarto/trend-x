@@ -13,7 +13,7 @@ const store = useProductStore()
     <div class="relative">
       <img 
         class="absolute inset-0 w-full h-full object-cover"
-        src="../../public/assets/hero.jpg"
+        src="/assets/hero.jpg"
       ></img>
       <div class="absolute inset-0 bg-black bg-opacity-40"></div>
       <div class="relative bg-transparent text-white py-20">
